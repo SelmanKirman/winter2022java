@@ -75,6 +75,7 @@ public class WhileLoop01 {
             System.out.println(n + " x " + m  +" = " + n*m);
             m++;
         }
+        // no more identicals
 
     }
 }
